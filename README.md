@@ -3,7 +3,9 @@
 🌱 I’m currently learning the MERN stack and exploring Android development 
 <br>
 👯 I’m looking to collaborate on building software programs that have a positive social impact!
+<br>
 📫 How to reach me: thenukasiva@yahoo.com
+<br>
 😄 Pronouns: she/her
 
 <!--

@@ -8,7 +8,7 @@
 <br>
 😄 Pronouns: she/her
 
-Visit my [thenukasiva.github.io]website
+Visit my [website!](https://thenukasiva.github.io)
 
 <!--
 **thenukasiva/thenukasiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

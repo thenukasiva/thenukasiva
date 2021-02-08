@@ -4,22 +4,10 @@
 <br>
 👯 I’m looking to collaborate on building software programs that have a positive social impact!
 <br>
-📫 How to reach me: thenukasiva@yahoo.com or [linkedin](https://www.linkedin.com/in/thenukasiva/)
+📫 How to reach me: thenukasiva@yahoo.com or [Linkedin](https://www.linkedin.com/in/thenukasiva/)
 <br>
 😄 Pronouns: she/her
 
 Visit my [website!](https://thenukasiva.github.io)
 
-<!--
-**thenukasiva/thenukasiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- ⚡ Fun fact: ...
--->

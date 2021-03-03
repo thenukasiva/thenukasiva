@@ -10,6 +10,8 @@ I'm a CS & BBA student at the University of Waterloo and Wilfrid Laurier Univers
 <br>
 😄 Pronouns: she/her
 
+<!--
 Visit my [website!](https://thenukasiva.github.io)
+>
 
 

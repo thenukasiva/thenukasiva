@@ -1,6 +1,6 @@
 ### Welcome! I'm Thenuka 👋
 
-I'm a CS & BBA student at the University of Waterloo and Wilfrid Laurier University.
+I'm a 2A CS student at the University of Waterloo.
 
 🌱 I’m currently learning the MERN stack and exploring full-stack development. 
 <br>

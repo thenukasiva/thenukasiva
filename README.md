@@ -1,6 +1,6 @@
 ### Welcome! I'm Thenuka (she/her) 👋
 
-I'm a 2A CS student at the University of Waterloo.
+I'm a second year CS student at the University of Waterloo.
 
 🌱 I’m currently learning the MERN stack and exploring full-stack development. 
 <br>

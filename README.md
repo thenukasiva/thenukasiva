@@ -6,6 +6,7 @@ I'm a second year CS student at the University of Waterloo.
 i'm also searching for 2022 Internships!
 <br>
 💻 learning: React Native + mobile dev (ios + android)
+<br>
 📫 how to reach me: thenukasivagna@gmail.com or [Linkedin](https://www.linkedin.com/in/thenukasiva/)
 <br>
 

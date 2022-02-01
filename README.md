@@ -2,13 +2,14 @@
 
 I'm a second year CS student at the University of Waterloo.
 
-🌱 I’m currently exploring full-stack development and looking to collaborate on building software programs that have a positive social impact! 
-I am also searching for 2022 Internships!
+🌱 currently: exploring full-stack development and looking to collaborate on building software programs that have a positive social impact! 
+i'm also searching for 2022 Internships!
 <br>
-📫 How to reach me: thenukasivagna@gmail.com or [Linkedin](https://www.linkedin.com/in/thenukasiva/)
+💻 learning: React Native + mobile dev (ios + android)
+📫 how to reach me: thenukasivagna@gmail.com or [Linkedin](https://www.linkedin.com/in/thenukasiva/)
 <br>
 
-Visit my new personal website (Built with Next.js + Typescript)! [thenukasiva.me](https://thenukasiva.me)
+visit my new personal website (built with next.js + typescript)! [thenukasiva.me](https://thenukasiva.me)
 
 
 

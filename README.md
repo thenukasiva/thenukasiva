@@ -1,10 +1,10 @@
 ### Welcome! I'm Thenuka (she/her) 👋
 
-I'm a third year computer science student at the University of Waterloo.
+I'm a fourth-year computer science student at the University of Waterloo. I'm currently looking for 2025 new grad SWE roles!
 
-🌱 currently: exploring front-end development + product management and looking to collaborate on building software programs that have a positive social impact! i'm also searching for 2024 Internships in full-stack development and product management!
+🌱 currently: exploring front-end development and working on the Merchant Success Team @ Pinterest!
 <br>
-💻 learning: React Native
+💻 learning: machine learning & design systems! (and also crocheting)
 <br>
 📫 how to reach me: thenukasivagna@gmail.com or [Linkedin](https://www.linkedin.com/in/thenukasiva/)
 <br>
